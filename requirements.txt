@@ -1,0 +1,17 @@
+Adafruit-GPIO==1.0.3
+Adafruit-PureIO==0.2.1
+Adafruit-SSD1306==1.6.1
+attrs==17.2.0
+Automat==0.6.0
+constantly==15.1.0
+hyperlink==17.3.1
+incremental==17.5.0
+klein==17.2.0
+olefile==0.44
+Pillow==4.2.1
+RPi.GPIO==0.6.3
+six==1.10.0
+spidev==3.2
+Twisted==17.5.0
+Werkzeug==0.12.2
+zope.interface==4.4.2
