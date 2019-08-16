@@ -12,6 +12,6 @@ Pillow==4.2.1
 RPi.GPIO==0.6.3
 six==1.10.0
 spidev==3.2
-Twisted==19.2.1
+Twisted==19.7.0
 Werkzeug==0.12.2
 zope.interface==4.4.2
