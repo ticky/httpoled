@@ -13,5 +13,5 @@ RPi.GPIO==0.6.3
 six==1.10.0
 spidev==3.2
 Twisted==19.7.0
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 zope.interface==4.4.2
